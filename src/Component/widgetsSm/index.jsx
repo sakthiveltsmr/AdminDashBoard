@@ -8,7 +8,7 @@ export default function WidgetsSm() {
       <ul className="widgetsmlist">
         <li className="widgetsmlistitem">
           <img
-            src="https://lh3.googleusercontent.com/Xu2h7g40jTVn_tWm4X9Kq5h4MALQjtv5oWmKpVV4sHvImQPE-JF4zdOH3Tr1QIhn98PbBudd2lVvFfNzcRoDCAu63OTrk1v8Z27-crH0pk5-EPq0xQBSiSysTZR9flUFZopfI85XaB1RInfZo6FdUiRxgIC13fqYgPicA0cKFTvksHKeWu18ANhhVqXk8zs0x5n6-VXHcZY0SJJWnoSktfnjF-xOtNOPvhzTQz8oHFQRw4puNUFNYARIHuVA7nHBdIe7jis-8I6sghBwYBz6obiJ0P9p0NA2_gmL2xqXonkIGYm4k13saP9ndAk1ijUvM5bWeRE5P98csgamGK4MlBoygAdoIRS11Ns_qAsMHRIZohxiML-XdUA2FqHF8pSlk3UhcRYh4TtmgPO-lDO1j280goBprwHx3TLcGSAIyKgwJ9BD87QcKgeiLWMQiM1dGDpSxeS5eC0J4LzYnDGiPQUPkoYaOs1Tz02KBKerur5EiX2vZ2ktilaNX7nBAEfQy-st5GwwNiM4iFLuRxYpaZdIJwouz5MrG2SC1jGooY2ihad0O7DXvcbNmMsWLyJS8RKBOKNRtfTDRKf8QzSWrDY80eX0zbsaYduYlDtuPRhgMMahIanBGKs49xYEeks-YOFE6SABXHJeSDMgBPsmCC9Agq2xINGpa82OUKytW5FjD_YxvcJi019QXsU8L5XZVZ0m-FLfuj5zTeHpAsFu658=w707-h893-no?authuser=0"
+            src="https://lh3.googleusercontent.com/8gc9bTfDcH0qoeehDOzZ63t50zc4MKbGUCRQm6BaWPw6q31_8sJq0TnDVpDi30ODPCgnKJNGyLR-IfjvTzrli_offmcEmS1DrNgg3HoFJGOm1sRsVA64ZgIhzdf_ULHTmloUcO94gSCyy-XMvBm_XYbytiYvSDn7BPi2R-I1ajvvgMyBMuVj9M0fda1FciYqdsY9f-_sKjuq1Stk4Y-d1XOS9uB6Fug049NAelmhCwHgvPTWTAnDEPba529uNg3MEU9pWni-c_tgbS9h4XTha0mdLTJpsMHO2QKVSWLQ-aJ48bNgKibsahMQvw0e9gAUbRXLhfFYL6wjHS4bWChmrxUbqs6jsvVo6NQsU5-wLkPCADsA7Y0_dfIGuryvnqH1iGJ8qP32HiLVgEX5OiwvdY8f5vxuIJU-xSxsiH-8wnj0iqCJq-2zJEZ2Mpc_-VBnBiCrc-NIhDvkOXeeeZwjN0Y1q9vawf8Ojwp-g53Vb6-Iyi5X2JJro79HPwfvcuit52HqTT30V02IB6C3hEIjmaKhU8Elwz-pfvVU3SqAyccZ6a61M1chUkPRYMiHX9-6RzF8QiZaTFhcSSrrB-JnGGg-pl4C7nh8TF9BJB_dhz0Rqsd0TOI34zmL6fZoCBov8vBiBwemOmAq70wOQZJwT72RynzrdZe3GOhodEJtJ5FQ8p2HQ6GS2Pbs7S5fFPsOmu3GxLpF-uW2hb8RAmcxOvpl=w1194-h893-no?authuser=0"
             alt="Thiru"
             className="widgetsmImg"
           />
@@ -23,13 +23,13 @@ export default function WidgetsSm() {
         </li>
         <li className="widgetsmlistitem">
           <img
-            src="https://lh3.googleusercontent.com/Xu2h7g40jTVn_tWm4X9Kq5h4MALQjtv5oWmKpVV4sHvImQPE-JF4zdOH3Tr1QIhn98PbBudd2lVvFfNzcRoDCAu63OTrk1v8Z27-crH0pk5-EPq0xQBSiSysTZR9flUFZopfI85XaB1RInfZo6FdUiRxgIC13fqYgPicA0cKFTvksHKeWu18ANhhVqXk8zs0x5n6-VXHcZY0SJJWnoSktfnjF-xOtNOPvhzTQz8oHFQRw4puNUFNYARIHuVA7nHBdIe7jis-8I6sghBwYBz6obiJ0P9p0NA2_gmL2xqXonkIGYm4k13saP9ndAk1ijUvM5bWeRE5P98csgamGK4MlBoygAdoIRS11Ns_qAsMHRIZohxiML-XdUA2FqHF8pSlk3UhcRYh4TtmgPO-lDO1j280goBprwHx3TLcGSAIyKgwJ9BD87QcKgeiLWMQiM1dGDpSxeS5eC0J4LzYnDGiPQUPkoYaOs1Tz02KBKerur5EiX2vZ2ktilaNX7nBAEfQy-st5GwwNiM4iFLuRxYpaZdIJwouz5MrG2SC1jGooY2ihad0O7DXvcbNmMsWLyJS8RKBOKNRtfTDRKf8QzSWrDY80eX0zbsaYduYlDtuPRhgMMahIanBGKs49xYEeks-YOFE6SABXHJeSDMgBPsmCC9Agq2xINGpa82OUKytW5FjD_YxvcJi019QXsU8L5XZVZ0m-FLfuj5zTeHpAsFu658=w707-h893-no?authuser=0"
-            alt="Thiru"
+            src="https://lh3.googleusercontent.com/58mer2Aq0GxILeYYNk0GqLTEhLg8OMu6K6aBkKdut5FiR6u5y4V1GTjZYusb_DpI2B6NqzDKxujUoL7Ea_T_lKvOUM8POQbSjZGHOlxKSohHhE0sLOaGZj1sMZV7njGsv_lya8JfITTsnuwf79yXkNuGhV7M-mzn4CrzA-no8sh45N-uWoxUBX2LZSdQAblgy7BFvrlROjBatH1lXNDflyLLbWofgXWA4uooPN_T6gYl_6mstpc_GZbDmg2Hl1Ik-YJTCxlSnJRo5RLPZ3FsGZeRjITURlBaPwb9vggk-jye2qKQvHkhgFgK4EM3sN8LTkqS9isuNjcDHuOwfF2WzfIMdAzdvBRoXb8vL6Ea4T2NEOe70YRMduvKoLL9exOib3DH9rRGZfIfDMVtCp0VhVQWLqNuZRUNI4OMt4mNFwAFSrxYX30x9izZNRK_qo_98Q_pwX22TCLK7sdcBlTbMAQ2YDXloWwfwTEBb68_rH36Wz_TuyCnmJjUeilA7_nbSkk9tjzdlLfao_Up7eCzfM8_xwFvBtD4cSEol4TA3HYbb_KcUjBiu8_LxpjaYzo43hUgJ0gUJW-yY_RTpgJ9dQq8oQzkITQy8K_CmDKKpohmyjzyYVW5gDWm7BvJrBAfcn6k60xFyTXM8Vl1YnjCWcgC5qpJUS5QJb33dFed848MPaLvz9tAr6fjtvcHqQAXItd6pwFjXZC8D3qlLckUzczT=w669-h893-no?authuser=0"
+            alt="sanjith"
             className="widgetsmImg"
           />
           <div className="widgetsmuser">
-            <span className="widgetsmusername">Thirumalai</span>
-            <span className="widgetsmusertitle">Software Engineer</span>
+            <span className="widgetsmusername">Sanjith VG</span>
+            <span className="widgetsmusertitle">Software Testing Engineer</span>
           </div>
           <button className="widgetsmButton">
             <Visibility className="widgetsmIcon" />
@@ -38,13 +38,13 @@ export default function WidgetsSm() {
         </li>
         <li className="widgetsmlistitem">
           <img
-            src="https://lh3.googleusercontent.com/Xu2h7g40jTVn_tWm4X9Kq5h4MALQjtv5oWmKpVV4sHvImQPE-JF4zdOH3Tr1QIhn98PbBudd2lVvFfNzcRoDCAu63OTrk1v8Z27-crH0pk5-EPq0xQBSiSysTZR9flUFZopfI85XaB1RInfZo6FdUiRxgIC13fqYgPicA0cKFTvksHKeWu18ANhhVqXk8zs0x5n6-VXHcZY0SJJWnoSktfnjF-xOtNOPvhzTQz8oHFQRw4puNUFNYARIHuVA7nHBdIe7jis-8I6sghBwYBz6obiJ0P9p0NA2_gmL2xqXonkIGYm4k13saP9ndAk1ijUvM5bWeRE5P98csgamGK4MlBoygAdoIRS11Ns_qAsMHRIZohxiML-XdUA2FqHF8pSlk3UhcRYh4TtmgPO-lDO1j280goBprwHx3TLcGSAIyKgwJ9BD87QcKgeiLWMQiM1dGDpSxeS5eC0J4LzYnDGiPQUPkoYaOs1Tz02KBKerur5EiX2vZ2ktilaNX7nBAEfQy-st5GwwNiM4iFLuRxYpaZdIJwouz5MrG2SC1jGooY2ihad0O7DXvcbNmMsWLyJS8RKBOKNRtfTDRKf8QzSWrDY80eX0zbsaYduYlDtuPRhgMMahIanBGKs49xYEeks-YOFE6SABXHJeSDMgBPsmCC9Agq2xINGpa82OUKytW5FjD_YxvcJi019QXsU8L5XZVZ0m-FLfuj5zTeHpAsFu658=w707-h893-no?authuser=0"
-            alt="Thiru"
+            src="https://lh3.googleusercontent.com/_2TEbi2Qu4-Wo2bz8Bs9DTnC7P7AUDBxnMxJfGSJ3XB8ZcM9SxY5YbCsPWVItTB9bO5CnxyZRfovO0tU_Lr7nua9slo4dA9vZweXOulwsn3M1s5Uz5aMDextYPqFx_LLgdsRVm6AyAlq5fxQW009uFhq_-bf71E0POhs4lP0-4KpZBICaFKvGn5qv5s27df5_TCElTkC2xmcYI9LUT9l2k2aQNCisk1cj6lJ_XHp7lOIXLIrACsOCkux9AX7L2YouK4ykzr7us2Cvud4siy219B9R7_WIK6iYoWpWIMUBxaPlHy8V0REKe1CktVgU0a7BjXREZxheKbX8AXAcpxFyKbvC7_CwcbS9s1dpO34zXAwWn1LwGltTThJmP3F6iXEBKEzdNtZwqbt3daQPpi9cCI1n-OBSon5fCuq_FrnBxxjlY0NJoeV6BM4Ax3zLr745iu-reAVlPhXiIBE1MCaJtYWCzYyGapRWOeRIVMBrwtAIgvvKvFpZaN1evy7YYfPbhAk3I3Na1fBoks5T46JxWa2SGQPyqKuQaG3ZCeAkMhaRl6zft1MPLcLOdtZxGPfL7ynVxOHNq4ZlktJj4T9YoCsHghctj3V-bv5t5lNykO-FmS10OY31FmcJdjBcK_360h5iytQXp2g_LpZl4qgPxjX6Lc0-l6RGZh3JvoTkjk9yx99LozUe3HWU7oJ2BfSGQVjmP5H3QU6lRDUBqMr9Zbc=w670-h893-no?authuser=0"
+            alt="sadhees"
             className="widgetsmImg"
           />
           <div className="widgetsmuser">
-            <span className="widgetsmusername">Thirumalai</span>
-            <span className="widgetsmusertitle">Software Engineer</span>
+            <span className="widgetsmusername">Sadheeshwaran U</span>
+            <span className="widgetsmusertitle">System Admin</span>
           </div>
           <button className="widgetsmButton">
             <Visibility className="widgetsmIcon" />
@@ -53,13 +53,13 @@ export default function WidgetsSm() {
         </li>
         <li className="widgetsmlistitem">
           <img
-            src="https://lh3.googleusercontent.com/Xu2h7g40jTVn_tWm4X9Kq5h4MALQjtv5oWmKpVV4sHvImQPE-JF4zdOH3Tr1QIhn98PbBudd2lVvFfNzcRoDCAu63OTrk1v8Z27-crH0pk5-EPq0xQBSiSysTZR9flUFZopfI85XaB1RInfZo6FdUiRxgIC13fqYgPicA0cKFTvksHKeWu18ANhhVqXk8zs0x5n6-VXHcZY0SJJWnoSktfnjF-xOtNOPvhzTQz8oHFQRw4puNUFNYARIHuVA7nHBdIe7jis-8I6sghBwYBz6obiJ0P9p0NA2_gmL2xqXonkIGYm4k13saP9ndAk1ijUvM5bWeRE5P98csgamGK4MlBoygAdoIRS11Ns_qAsMHRIZohxiML-XdUA2FqHF8pSlk3UhcRYh4TtmgPO-lDO1j280goBprwHx3TLcGSAIyKgwJ9BD87QcKgeiLWMQiM1dGDpSxeS5eC0J4LzYnDGiPQUPkoYaOs1Tz02KBKerur5EiX2vZ2ktilaNX7nBAEfQy-st5GwwNiM4iFLuRxYpaZdIJwouz5MrG2SC1jGooY2ihad0O7DXvcbNmMsWLyJS8RKBOKNRtfTDRKf8QzSWrDY80eX0zbsaYduYlDtuPRhgMMahIanBGKs49xYEeks-YOFE6SABXHJeSDMgBPsmCC9Agq2xINGpa82OUKytW5FjD_YxvcJi019QXsU8L5XZVZ0m-FLfuj5zTeHpAsFu658=w707-h893-no?authuser=0"
-            alt="Thiru"
+            src="https://static01.nyt.com/images/2017/11/02/arts/03thor-webmain/03thor-webmain-facebookJumbo.jpg?year=2017&h=549&w=1050&s=84faef933925f1c87f467e1a7fbcaab1d5b01bf5d0c19a7f7b92cb38c88965a5&k=ZQJBKqZ0VN"
+            alt="Kannan"
             className="widgetsmImg"
           />
           <div className="widgetsmuser">
-            <span className="widgetsmusername">Thirumalai</span>
-            <span className="widgetsmusertitle">Software Engineer</span>
+            <span className="widgetsmusername">Kannan</span>
+            <span className="widgetsmusertitle">Verification Export</span>
           </div>
           <button className="widgetsmButton">
             <Visibility className="widgetsmIcon" />
@@ -68,13 +68,13 @@ export default function WidgetsSm() {
         </li>
         <li className="widgetsmlistitem">
           <img
-            src="https://lh3.googleusercontent.com/Xu2h7g40jTVn_tWm4X9Kq5h4MALQjtv5oWmKpVV4sHvImQPE-JF4zdOH3Tr1QIhn98PbBudd2lVvFfNzcRoDCAu63OTrk1v8Z27-crH0pk5-EPq0xQBSiSysTZR9flUFZopfI85XaB1RInfZo6FdUiRxgIC13fqYgPicA0cKFTvksHKeWu18ANhhVqXk8zs0x5n6-VXHcZY0SJJWnoSktfnjF-xOtNOPvhzTQz8oHFQRw4puNUFNYARIHuVA7nHBdIe7jis-8I6sghBwYBz6obiJ0P9p0NA2_gmL2xqXonkIGYm4k13saP9ndAk1ijUvM5bWeRE5P98csgamGK4MlBoygAdoIRS11Ns_qAsMHRIZohxiML-XdUA2FqHF8pSlk3UhcRYh4TtmgPO-lDO1j280goBprwHx3TLcGSAIyKgwJ9BD87QcKgeiLWMQiM1dGDpSxeS5eC0J4LzYnDGiPQUPkoYaOs1Tz02KBKerur5EiX2vZ2ktilaNX7nBAEfQy-st5GwwNiM4iFLuRxYpaZdIJwouz5MrG2SC1jGooY2ihad0O7DXvcbNmMsWLyJS8RKBOKNRtfTDRKf8QzSWrDY80eX0zbsaYduYlDtuPRhgMMahIanBGKs49xYEeks-YOFE6SABXHJeSDMgBPsmCC9Agq2xINGpa82OUKytW5FjD_YxvcJi019QXsU8L5XZVZ0m-FLfuj5zTeHpAsFu658=w707-h893-no?authuser=0"
-            alt="Thiru"
+            src="https://images.unsplash.com/photo-1615789591457-74a63395c990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9tZXN0aWMlMjBjYXR8ZW58MHx8MHx8&w=1000&q=80"
+            alt="muththu"
             className="widgetsmImg"
           />
           <div className="widgetsmuser">
-            <span className="widgetsmusername">Thirumalai</span>
-            <span className="widgetsmusertitle">Software Engineer</span>
+            <span className="widgetsmusername">Muthu</span>
+            <span className="widgetsmusertitle">Web Developer</span>
           </div>
           <button className="widgetsmButton">
             <Visibility className="widgetsmIcon" />
