@@ -16,6 +16,9 @@
   border: none;
   border-radius: 10px;
   padding: 5px 10px;
-  background-color: wheat;
+  background-color: rgb(159, 240, 128);
   cursor: pointer;
+}
+.userlistedelete {
+  color: red;
 }
