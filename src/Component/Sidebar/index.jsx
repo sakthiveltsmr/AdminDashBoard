@@ -13,6 +13,7 @@ import {
   AttachMoney,
   BarChart,
 } from "@material-ui/icons";
+import { Link } from "react-router-dom";
 
 export default function SideBar() {
   return (
@@ -21,10 +22,12 @@ export default function SideBar() {
         <div className="sidebrmenu">
           <h1 className="sidebartitle">Dashboard</h1>
           <ul className="sidebarlist">
-            <li className="sidebarlistitem active">
-              <LineStyle className="sidebaricons" />
-              Home
-            </li>
+            <Link to="/" className="link">
+              <li className="sidebarlistitem active">
+                <LineStyle className="sidebaricons" />
+                Home
+              </li>
+            </Link>
             <li className="sidebarlistitem">
               <Timeline className="sidebaricons" />
               Analytics
@@ -38,14 +41,18 @@ export default function SideBar() {
         <div className="sidebrmenu">
           <h1 className="sidebartitle">Quick Menu</h1>
           <ul className="sidebarlist">
-            <li className="sidebarlistitem">
-              <PermIdentity className="sidebaricons" />
-              Users
-            </li>
-            <li className="sidebarlistitem">
-              <Storefront className="sidebaricons" />
-              Products
-            </li>
+            <Link to="/users" className="link">
+              <li className="sidebarlistitem">
+                <PermIdentity className="sidebaricons" />
+                Users
+              </li>
+            </Link>
+            <Link to="/products" className="link">
+              <li className="sidebarlistitem">
+                <Storefront className="sidebaricons" />
+                Products
+              </li>
+            </Link>
             <li className="sidebarlistitem">
               <AttachMoney className="sidebaricons" />
               Transactions

@@ -18,7 +18,9 @@
   padding: 5px 10px;
   background-color: rgb(159, 240, 128);
   cursor: pointer;
+  margin-right: 20px;
 }
 .userlistedelete {
   color: red;
+  cursor: pointer;
 }

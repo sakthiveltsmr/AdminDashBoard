@@ -90,3 +90,168 @@ export const UserRows = [
     transaction: "$2500.00",
   },
 ];
+
+export const ProductRows = [
+  {
+    id: 1,
+    name: "Apple",
+    img: "https://media.istockphoto.com/photos/red-apple-with-leaf-isolated-on-white-background-picture-id185262648?b=1&k=20&m=185262648&s=170667a&w=0&h=2ouM2rkF5oBplBmZdqs3hSOdBzA4mcGNCoF2P0KUMTM=",
+    stock: 123,
+    status: "active",
+    price: "$6000.00",
+  },
+  {
+    id: 2,
+    name: "orange",
+    img: "https://media.istockphoto.com/photos/orange-picture-id185284489?k=20&m=185284489&s=612x612&w=0&h=LLY2os0YTG2uAzpBKpQZOAC4DGiXBt1jJrltErTJTKI=",
+    stock: 155,
+    status: "active",
+    price: "$1000.00",
+  },
+  {
+    id: 3,
+    name: "banana",
+    img: "https://media.istockphoto.com/photos/banana-bunch-picture-id173242750?k=20&m=173242750&s=612x612&w=0&h=dgXrAP6otDeY5h6fhy-SRmW-2dFOCKx1_hNS1lLWF7Y=",
+    stock: 160,
+    status: "active",
+    price: "$2000.00",
+  },
+  {
+    id: 4,
+    name: "grapes",
+    img: "https://m.media-amazon.com/images/I/41P8zMQqR7L._SX466_.jpg",
+    stock: 50,
+    status: "active",
+    price: "$500.00",
+  },
+  {
+    id: 5,
+    name: "pappaya",
+    img: "https://media.istockphoto.com/photos/whole-and-half-ripe-papaya-with-green-leaves-isolated-on-white-picture-id1025192794?k=20&m=1025192794&s=612x612&w=0&h=n3qYulIw0G-M_DgSAHNu9iVCPBLxbRjsvjKCCpHAVVs=",
+    stock: 150,
+    status: "active",
+    price: "$1500.00",
+  },
+  {
+    id: 6,
+    name: "Apricot",
+    img: "https://5.imimg.com/data5/SELLER/Default/2020/8/AL/CS/SK/68701136/a36c0e4b-4fa8-454b-9e57-0dca186083d4-500x500.jpg",
+    stock: 500,
+    status: "active",
+    price: "$4000.00",
+  },
+  {
+    id: 7,
+    name: "Cherry",
+    img: "https://media.istockphoto.com/photos/cherry-with-leaves-isolated-on-white-background-picture-id533381303?b=1&k=20&m=533381303&s=170667a&w=0&h=jj_vGqxaol6_F-_UW0YOkDBKypRIjAFitBk5IIe1-Bc=",
+    stock: 250,
+    status: "active",
+    price: "$2000.00",
+  },
+  {
+    id: 8,
+    name: "Peach",
+    img: "https://m.media-amazon.com/images/I/71gN9UmIBJL._SL1500_.jpg",
+    stock: 1000,
+    status: "active",
+    price: "$3000.00",
+  },
+  {
+    id: 9,
+    name: "Lime",
+    img: "https://chefsmandala.com/wp-content/uploads/2018/03/Lime-Whole-Half.jpg",
+    stock: 1500,
+    status: "active",
+    price: "$5000.00",
+  },
+  {
+    id: 10,
+    name: "Kiwi",
+    img: "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    stock: 800,
+    status: "active",
+    price: "$2500.00",
+  },
+];
+
+export const Productdata = [
+  {
+    name: "Jan",
+    Sales: 4000,
+  },
+  {
+    name: "Feb",
+    Sales: 3000,
+  },
+  {
+    name: "Mar",
+    Sales: 2000,
+  },
+  {
+    name: "Apl",
+    Sales: 2780,
+  },
+  {
+    name: "May",
+    Sales: 1890,
+  },
+  {
+    name: "Jun",
+    Sales: 2390,
+  },
+  {
+    name: "Jul",
+    Sales: 3490,
+  },
+];
+
+export const Userdata = [
+  {
+    name: "Jan",
+    Active: 4000,
+  },
+  {
+    name: "Feb",
+    Active: 3000,
+  },
+  {
+    name: "Mar",
+    Active: 2000,
+  },
+  {
+    name: "Apl",
+    Active: 2780,
+  },
+  {
+    name: "May",
+    Active: 1890,
+  },
+  {
+    name: "Jun",
+    Active: 2390,
+  },
+  {
+    name: "Jul",
+    Active: 3490,
+  },
+  {
+    name: "Aug",
+    Active: 1090,
+  },
+  {
+    name: "Sep",
+    Active: 2390,
+  },
+  {
+    name: "Oct",
+    Active: 1000,
+  },
+  {
+    name: "Nov",
+    Active: 4000,
+  },
+  {
+    name: "Dec",
+    Active: 3000,
+  },
+];
