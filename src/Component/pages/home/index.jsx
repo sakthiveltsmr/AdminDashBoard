@@ -1,3 +1,4 @@
+import { Userdata } from "../../../Dammy";
 import Chats from "../../Chats";
 import Featureinfo from "../../Featureinfo";
 import WidgetsLg from "../../widgetsLg";
@@ -8,7 +9,7 @@ export default function Home() {
   return (
     <div className="home">
       <Featureinfo />
-      <Chats />
+      <Chats data={Userdata} title="User Analytics" grid datakey="Active" />
       <div className="homewidgets">
         <WidgetsSm />
         <WidgetsLg />

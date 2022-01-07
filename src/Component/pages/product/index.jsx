@@ -17,18 +17,19 @@ export default function Product() {
         <div className="producttopleft">
           <Charts
             data={Productdata}
-            dataKey="Sales"
+            grid
+            datakey="Sales"
             title="Sales Performance"
           />
         </div>
         <div className="producttopright">
           <div className="productrighttop">
             <img
-              src="https://media.istockphoto.com/photos/red-apple-picture-id495878092?b=1&k=20&m=495878092&s=170667a&w=0&h=bJgILGFxOka0ymPlgilH8qaRxFhKole_M6IiYs6RyGM="
+              src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1629842667000"
               alt="me"
               className="productrighttopimg"
             />
-            <span className="productname">Apple</span>
+            <span className="productname">Iphone</span>
           </div>
           <div className="productbottom">
             <div className="productinfoitem">
@@ -37,7 +38,7 @@ export default function Product() {
             </div>
             <div className="productinfoitem">
               <span className="productinfokey">Sales:</span>
-              <span className="productinfovalue">5123</span>
+              <span className="productinfovalue">50000</span>
             </div>
             <div className="productinfoitem">
               <span className="productinfokey">active:</span>
@@ -54,7 +55,7 @@ export default function Product() {
         <form className="productForm">
           <div className="productFormLeft">
             <label>Product Name</label>
-            <input type="text" placeholder="Apple" />
+            <input type="text" placeholder="Iphone" />
             <label>In Stock</label>
             <select name="inStock" id="inStock">
               <option value="yes">Yes</option>

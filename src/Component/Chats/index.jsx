@@ -7,17 +7,17 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from "recharts";
-import { Userdata } from "../../Dammy";
-export default function Chats() {
+// import { Userdata } from "../../Dammy";
+export default function Chats({ title, data, datakey, grid }) {
   return (
     <div className="chats ">
-      <h3 className="chartTittle">User Analytics</h3>
+      <h3 className="chartTittle">{title}</h3>
       <ResponsiveContainer width="100%" aspect={4 / 1}>
-        <LineChart data={Userdata}>
+        <LineChart data={data}>
           <XAxis dataKey="name" stroke="#5550bd" />
-          <Line type="monotone" dataKey="Active" stroke="#5550bd" />
+          <Line type="monotone" dataKey={datakey} stroke="#5550bd" />
           <Tooltip />
-          <CartesianGrid stroke="#e0dfdf" strokeDasharray="5 5" />
+          {grid && <CartesianGrid stroke="#e0dfdf" strokeDasharray="5 5" />}
         </LineChart>
       </ResponsiveContainer>
     </div>
