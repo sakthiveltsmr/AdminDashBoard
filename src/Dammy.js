@@ -11,7 +11,7 @@ export const UserRows = [
     id: 2,
     username: "Sadheeshwaran U",
     avatar: "https://nerdist.com/wp-content/uploads/2021/10/Cap-Shield.jpg",
-    email: "sadhe@gmail.com",
+    email: "sadhees@gmail.com",
     status: "active",
     transaction: "$1000.00",
   },
